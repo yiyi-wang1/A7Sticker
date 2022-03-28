@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1013263412380",
+    "project_id": "a7stickers-65947",
+    "storage_bucket": "a7stickers-65947.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013263412380:android:be964be5deed7703db5159",
+        "android_client_info": {
+          "package_name": "com.example.a7sticker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1013263412380-ltcgut6og16607k23v02k6quhg1cadrf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkOH4smagAjnnz63fVYRD4jGwouPqGgsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1013263412380-ltcgut6og16607k23v02k6quhg1cadrf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
